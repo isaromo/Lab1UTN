@@ -1,16 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.tp1lab;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author AyP Computacion
- */
 public class TP1Lab {
 
     public static void main(String[] args) {
