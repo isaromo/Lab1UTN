@@ -69,7 +69,7 @@ public class TPMutantes_Opcional {
     //  FUNCIONES PROGRAMA MUTANTE  //
     public static boolean sonATCG(String letras){
         boolean todasATCG = true;
-        
+            
         for (int i = 0; i < letras.length(); i++){
             char letra = letras.charAt(i);
             
